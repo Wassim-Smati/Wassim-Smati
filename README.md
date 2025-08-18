@@ -6,8 +6,8 @@ Découvrez ici mes projets réalisés au cours de mes années d'ingénieur à T�
 
 ## 📁 Mes projets
 
-- https://github.com/Wassim-Smati/AI-Playlist-Curation — Description rapide du projet.
-- [Nom du projet 2](lien_vers_repo_ou_site) — A mobile app that generates playlists with AI based on three possible inputs - a song, a recording, or a sentence.
+- https://github.com/Wassim-Smati/AI-Playlist-Curation — A mobile app that generates playlists with AI based on three possible inputs - a song, a recording, or a sentence.
+- https://github.com/Wassim-Smati/Vinted-Like-Sorter-Chrome-Extension — A chrome extension that enables you to sort articles by likes on Vinted.
 - [Nom du projet 3](lien_vers_repo_ou_site) — Description rapide du projet.
 
 ## 💡 Compétences
