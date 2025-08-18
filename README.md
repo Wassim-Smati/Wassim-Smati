@@ -6,8 +6,8 @@ Découvrez ici mes projets réalisés au cours de mes années d'ingénieur à T�
 
 ## 📁 Mes projets
 
-- [Nom du projet 1](lien_vers_repo_ou_site) — Description rapide du projet.
-- [Nom du projet 2](lien_vers_repo_ou_site) — Description rapide du projet.
+- https://github.com/Wassim-Smati/AI-Playlist-Curation — Description rapide du projet.
+- [Nom du projet 2](lien_vers_repo_ou_site) — A mobile app that generates playlists with AI based on three possible inputs - a song, a recording, or a sentence.
 - [Nom du projet 3](lien_vers_repo_ou_site) — Description rapide du projet.
 
 ## 💡 Compétences
