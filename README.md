@@ -18,7 +18,7 @@ Découvrez ici mes projets réalisés au cours de mes années d'ingénieur à T�
 
 ## 📫 Me contacter
 
-- [LinkedIn]([lien_linkedin](https://www.linkedin.com/in/wassim-smati-5776a6327/))
+- LinkedIn : https://www.linkedin.com/in/wassim-smati-5776a6327/
 - Email : wassim.smati@telecom-paris.fr
 ---
 
