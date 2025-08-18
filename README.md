@@ -1,16 +1,25 @@
-## Hi there 👋
+# Wassim Smati
 
-<!--
-**Wassim-Smati/Wassim-Smati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon portfolio GitHub !  
+Je suis un développeur passionné par l'IA et le Software Engineering.  
+Découvrez ici mes projets réalisés au cours de mes années d'ingénieur à Télécom Paris.
 
-Here are some ideas to get you started:
+## 📁 Mes projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Nom du projet 1](lien_vers_repo_ou_site) — Description rapide du projet.
+- [Nom du projet 2](lien_vers_repo_ou_site) — Description rapide du projet.
+- [Nom du projet 3](lien_vers_repo_ou_site) — Description rapide du projet.
+
+## 💡 Compétences
+
+- Langages : Python, Java, C++, JavaScript
+- Frameworks : React, Django, ... (à modifier)
+- Autres : Git, Docker, ...
+
+## 📫 Me contacter
+
+- [LinkedIn]([lien_linkedin](https://www.linkedin.com/in/wassim-smati-5776a6327/))
+- Email : wassim.smati@telecom-paris.fr
+---
+
+_N’hésitez pas à parcourir mes projets ou à me contacter pour toute opportunité !_
