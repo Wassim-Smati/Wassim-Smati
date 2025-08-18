@@ -1,7 +1,7 @@
 # Wassim Smati
 
 Bienvenue sur mon portfolio GitHub !  
-Je suis un développeur passionné par l'IA et le Software Engineering.  
+Je suis un étudiant ingénieur passionné par l'IA et le Software Engineering.  
 Découvrez ici mes projets réalisés au cours de mes années d'ingénieur à Télécom Paris.
 
 ## 📁 Mes projets
