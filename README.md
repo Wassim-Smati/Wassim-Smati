@@ -8,7 +8,7 @@ Découvrez ici mes projets réalisés au cours de mes années d'ingénieur à T�
 
 - https://github.com/Wassim-Smati/AI-Playlist-Curation — A mobile app that generates playlists with AI based on three possible inputs - a song, a recording, or a sentence.
 - https://github.com/Wassim-Smati/Vinted-Like-Sorter-Chrome-Extension — A chrome extension that enables you to sort articles by likes on Vinted.
-- [Nom du projet 3](lien_vers_repo_ou_site) — Description rapide du projet.
+- https://github.com/Wassim-Smati/Euro-2024-Predictions-with-Machine-Learning — An AI project to forecast Euro 2024 results with Poisson regression, statistical modeling, and machine learning
 
 ## 💡 Compétences
 
