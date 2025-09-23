@@ -6,6 +6,16 @@ Here you can find some of the projects I’ve worked on during my studies at **T
 
 ---
 
+## 📄 Portfolio  
+
+<p align="center">
+  <a href="Wassim_Smati_Portfolio.pdf">
+    <img src="https://img.shields.io/badge/View%20Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+  </a>
+</p>  
+
+---
+
 ## 📁 Projects  
 
 - 🎵 [AI Playlist Curation](https://github.com/Wassim-Smati/AI-Playlist-Curation) — A mobile app that generates playlists with AI based on three possible inputs: a song, a recording, or a sentence.  
@@ -19,16 +29,6 @@ Here you can find some of the projects I’ve worked on during my studies at **T
 - **Languages**: Python, Java, C++, JavaScript  
 - **Frameworks**: React, Django (expandable depending on projects)  
 - **Other Tools**: Git, Docker, ...  
-
----
-
-## 📄 Portfolio  
-
-<p align="center">
-  <a href="Wassim_Smati_Portfolio.pdf">
-    <img src="https://img.shields.io/badge/View%20Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
-  </a>
-</p>  
 
 ---
 
