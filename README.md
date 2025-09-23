@@ -1,7 +1,7 @@
 # Wassim Smati  
 
 Welcome to my GitHub portfolio!  
-I am an engineering student passionate about **Artificial Intelligence** and **Software Engineering**.  
+I am an engineering student passionate about **Software Engineering** and **Artificial Intelligence**.  
 Here you can find some of the projects I’ve worked on during my studies at **Télécom Paris**.  
 
 ---
