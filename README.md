@@ -29,10 +29,10 @@ Here you can find some of the projects I’ve worked on during my studies at **T
 ## 💡 Skills
 
 **Languages:**
-`Python` • `Java` • `JavaScript` • `TypeScript` • `C++` • `SQL` • `HTML5/CSS3`
+`Python` • `Java` • `JavaScript` • `TypeScript` • `C++` • `SQL` 
 
 **Backend & Frameworks:**
-`FastAPI` • `Flask` • `Django` • `React` • `React Native` • `Expo`
+`FastAPI` • `Flask` 
 
 **Data Science & Machine Learning:**
 * **Libraries:** `Pandas` • `NumPy` • `Scikit-learn (sklearn)` • `OpenCV` • `TensorFlow` • `PyTorch`
@@ -41,7 +41,7 @@ Here you can find some of the projects I’ve worked on during my studies at **T
 `Git` • `GitHub` • `Docker` • `Azure` • `Jupyter Notebooks` • `Chrome Extension Development`
 
 **Concepts & Architectures:**
-`Object-Oriented Programming (OOP)` • `MVC Architecture` • `Algorithms & Data Structures`
+`Object-Oriented Programming (OOP)` • `Algorithms & Data Structures`
 
 ---
 
