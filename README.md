@@ -8,11 +8,7 @@ Here you can find some of the projects I’ve worked on during my studies at **T
 
 ## 📄 Portfolio  
 
-<p align="center">
-  <a href="Wassim_Smati_Portfolio.pdf">
-    <img src="https://img.shields.io/badge/View%20Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
-  </a>
-</p>  
+https://wassim-smati.github.io/wassimsmati.github.io/
 
 ---
 
