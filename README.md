@@ -13,8 +13,8 @@ Second-year engineering student at **Télécom Paris** specializing in Machine L
 - 🎵 **[AI Playlist Curation](https://github.com/Wassim-Smati/AI-Playlist-Curation)**: Android application (Java) integrating a Deep Learning model (CNN, VGG16) trained on 10k+ Deezer tracks. Set up continuous deployment (CI/CD via GitHub Actions) for a Dockerized API on Hugging Face Spaces.
 - ⚽ **[Euro 2024 ML Predictions](https://github.com/Wassim-Smati/Euro-2024-Predictions-with-Machine-Learning)**: Designed a predictive model based on 4 years of international match data (scores, FIFA rankings) using Scikit-learn and Pandas, achieving 70% accuracy for Euro 2024. 
 - 🛒 **[Vinted-Like Sorter](https://github.com/Wassim-Smati/Vinted-Like-Sorter-Chrome-Extension)**: A Chrome extension that allows users to sort Vinted items by popularity (number of likes).
-- 🤖 **[RobotSim - Factory Simulator](https://github.com/Wassim-Smati/RobotSim)**: A Java-based factory logistics simulation featuring autonomous robots and Dijkstra pathfinding.
 - 👁️ **[Eye Fundus Quality Assessment](https://github.com/Wassim-Smati/Eye-Fundus-Quality-Assessment)**: An ML pipeline for retinal image quality assessment using SVM and computer vision.
+- 🤖 **[RobotSim - Factory Simulator](https://github.com/Wassim-Smati/RobotSim)**: A Java-based factory logistics simulation featuring autonomous robots and Dijkstra pathfinding.
 
 ---
 
