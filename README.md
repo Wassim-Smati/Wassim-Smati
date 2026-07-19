@@ -1,11 +1,11 @@
-# Hi, I'm Wassim 👋
+# Hi, I'm Wassim Smati 👋
 
 Engineering student at **Télécom Paris** focused on **Machine Learning, NLP, and Software Engineering**.  
 I build end-to-end projects spanning model design, evaluation, deployment, and product-facing applications.
 
 ---
 
-## What I'm currently building
+## 🚀 Projects
 
 - **Self-Supervised Learning on Medical Imaging (PathMNIST)**  
   Comparative benchmark of **VICReg, SimCLR, Barlow Twins, and DINO** with a unified ResNet-18 backbone.  
@@ -19,11 +19,6 @@ I build end-to-end projects spanning model design, evaluation, deployment, and p
   C++ multimedia server + Java Swing TCP client (client-server architecture, OOP patterns, serialization).  
   Repo: [Projet-C-Java-Swing](https://github.com/Wassim-Smati/Projet-C-Java-Swing)
 
----
-
-## ⭐ Featured Projects
-
-### AI / ML
 - [AI-Playlist-Curation](https://github.com/Wassim-Smati/AI-Playlist-Curation)  
   AI-powered playlist curation with deep learning + Android app + API workflow.
 
@@ -33,17 +28,15 @@ I build end-to-end projects spanning model design, evaluation, deployment, and p
 - [Eye-Fundus-Quality-Assessment](https://github.com/Wassim-Smati/Eye-Fundus-Quality-Assessment)  
   Classical ML pipeline for retinal image quality assessment (feature engineering + SVM).
 
-### Software Engineering
 - [robot-factory-java](https://github.com/Wassim-Smati/robot-factory-java)  
   Java factory simulation with robots, components, persistence, and Dijkstra pathfinding.
 
-### Browser / Product
 - [Vinted-Like-Sorter-Chrome-Extension](https://github.com/Wassim-Smati/Vinted-Like-Sorter-Chrome-Extension)  
   Chrome extension that sorts Vinted items by likes to speed up deal discovery.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages:** Python, Java, C++, JavaScript  
 **ML/AI:** PyTorch, scikit-learn, NLP pipelines, feature engineering, self-supervised learning  
@@ -52,13 +45,13 @@ I build end-to-end projects spanning model design, evaluation, deployment, and p
 
 ---
 
-## Portfolio
+## 🌐 Portfolio
 
 - Personal website: [wassim-smati.github.io](https://wassim-smati.github.io/wassimsmati.github.io/)
 
 ---
 
-## Contact
+## 📫 Contact
 
 - GitHub: [@Wassim-Smati](https://github.com/Wassim-Smati)
 - Email: [wassim.smati@telecom-paris.fr](mailto:wassim.smati@telecom-paris.fr)
