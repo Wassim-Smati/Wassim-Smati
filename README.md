@@ -6,18 +6,19 @@ I build end-to-end projects spanning model design, evaluation, deployment, and p
 ---
 
 ## 🚀 Projects
+  
+
+- ⭐ [Persuasion + AI Text Detection + LLM Generation](https://github.com/Wassim-Smati/LLM-based-Argument-Generation-AI-Text-Detection) 
+  NLP pipeline combining persuasion scoring, human-vs-AI detection, and strategic generation with fine-tuned LLMs.
+
+- ⭐ [AI-Playlist-Curation](https://github.com/Wassim-Smati/AI-Playlist-Curation)  
+  AI-powered playlist curation with deep learning + Android app + API workflow.
 
 - [Self-Supervised Learning on Medical Imaging (PathMNIST)](https://github.com/Wassim-Smati/ProjetIMA) 
-  Comparative benchmark of **VICReg, SimCLR, Barlow Twins, and DINO** with a unified ResNet-18 backbone.  
-
-- [Persuasion + AI Text Detection + LLM Generation](https://github.com/Wassim-Smati/LLM-based-Argument-Generation-AI-Text-Detection) 
-  NLP pipeline combining persuasion scoring, human-vs-AI detection, and strategic generation with fine-tuned LLMs.  
+  Comparative benchmark of **VICReg, SimCLR, Barlow Twins, and DINO** with a unified ResNet-18 backbone.
 
 - [Distributed Multimedia Center in C and Java/Swing](https://github.com/Wassim-Smati/Projet-C-Java-Swing)
   C++ multimedia server + Java Swing TCP client (client-server architecture, OOP patterns, serialization).  
-
-- [AI-Playlist-Curation](https://github.com/Wassim-Smati/AI-Playlist-Curation)  
-  AI-powered playlist curation with deep learning + Android app + API workflow.
 
 - [Euro-2024-Predictions-with-Machine-Learning](https://github.com/Wassim-Smati/Euro-2024-Predictions-with-Machine-Learning)  
   Football outcome modeling using Poisson methods, GLM regression, and ranking-based adjustments.
