@@ -7,17 +7,14 @@ I build end-to-end projects spanning model design, evaluation, deployment, and p
 
 ## 🚀 Projects
 
-- **Self-Supervised Learning on Medical Imaging (PathMNIST)**  
+- [Self-Supervised Learning on Medical Imaging (PathMNIST)](https://github.com/Wassim-Smati/ProjetIMA) 
   Comparative benchmark of **VICReg, SimCLR, Barlow Twins, and DINO** with a unified ResNet-18 backbone.  
-  Repo: [ProjetIMA](https://github.com/Wassim-Smati/ProjetIMA)
 
-- **Persuasion + AI Text Detection + LLM Generation**  
+- [Persuasion + AI Text Detection + LLM Generation](https://github.com/Wassim-Smati/LLM-based-Argument-Generation-AI-Text-Detection) 
   NLP pipeline combining persuasion scoring, human-vs-AI detection, and strategic generation with fine-tuned LLMs.  
-  Repo: [LLM-based-Argument-Generation-AI-Text-Detection](https://github.com/Wassim-Smati/LLM-based-Argument-Generation-AI-Text-Detection)
 
-- **Distributed Multimedia Center**  
+- [Distributed Multimedia Center in C and Java/Swing](https://github.com/Wassim-Smati/Projet-C-Java-Swing)
   C++ multimedia server + Java Swing TCP client (client-server architecture, OOP patterns, serialization).  
-  Repo: [Projet-C-Java-Swing](https://github.com/Wassim-Smati/Projet-C-Java-Swing)
 
 - [AI-Playlist-Curation](https://github.com/Wassim-Smati/AI-Playlist-Curation)  
   AI-powered playlist curation with deep learning + Android app + API workflow.
